@@ -1,0 +1,13 @@
+{
+    "compile-hero.disable-compile-files-on-did-save-code": true,
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "chikoConSqlite",
+            "database": "D:\\SQlite_Databases\\chinook.db",
+            "group": "ConGroupSqlite"
+        }
+    ]
+}
