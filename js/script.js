@@ -3,6 +3,6 @@
 
 // console.log(urunAdi);
 //  let suankiYil = new Date().getFullYear();
-//  console.log(suankiYil);
+//  console.log(suankiYil)
 
 
