@@ -1,0 +1,17 @@
+Git History on 3.version by mustafagokselkisioglu@gmail.com 
+
+index.html içerik degisti
+01d47a2 (HEAD -> 3.version) by git mgk <mustafagokselkisioglu@gmail.com>, Sun Nov 19 2023 (10 hours ago)
+
+update
+949dae2 (origin/2.-version, 2.-version) by git mgk <mustafagokselkisioglu@gmail.com>, Sun Nov 19 2023 (16 hours ago)
+
+css in eklenmesi
+7f4d37c (main) by gitmgk <mustafagokselkisioglu@gmail.com>, Sun Nov 19 2023 (16 hours ago)
+
+basligin degistirilmesi
+3d1f79a by gitmgk <mustafagokselkisioglu@gmail.com>, Sun Nov 19 2023 (17 hours ago)
+
+anasayfanın eklenmesi
+b4274e8 by gitmgk <mustafagokselkisioglu@gmail.com>, Sun Nov 19 2023 (17 hours ago)
+

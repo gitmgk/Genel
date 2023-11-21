@@ -3,6 +3,13 @@
 
 // console.log(urunAdi);
 //  let suankiYil = new Date().getFullYear();
-//  console.log(suankiYil)
+//  console.log(suankiYil);
 
 
+let simdi = new Date();
+
+sonuc =simdi;
+sonuc= simdi.getDate();
+
+console.log(sonuc);;
+console.log(typeof sonuc);
